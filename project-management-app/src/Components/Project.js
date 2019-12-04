@@ -133,7 +133,7 @@ class Project extends Component {
           color="primary"
           onClick={this.toggleNewProjectModal.bind(this)}
         >
-          Add Projects
+          Add Project
         </Button>
         <Table>
           <thead>
